@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200447971905",
+    "firebase_url": "https://maps-2018-bcb78.firebaseio.com",
+    "project_id": "maps-2018-bcb78",
+    "storage_bucket": "maps-2018-bcb78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200447971905:android:653d976226af1f68",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200447971905-6sv0h7884uuhi59qf1esl3ajuuiuk63l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithmitch.googlemaps2018.services",
+            "certificate_hash": "d1d6eb182637fa00a32704275e924f63b29dd449"
+          }
+        },
+        {
+          "client_id": "200447971905-1f6nrviva1qljbt7gu7a14pf1bq4oqs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzbriICl3tSIs0l9mZzbdJa6xHe3ps2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200447971905-1f6nrviva1qljbt7gu7a14pf1bq4oqs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
